@@ -16,3 +16,5 @@
 1. integrate dotfiles bare repository setup
 2. registry it to npm/gem
 3. complete README.md
+
+© 2018 WTFPL – Do What the Fuck You Want to Public License.
