@@ -1,4 +1,4 @@
-# Autodots
+# 🛠️ 🎩  Autodots 🚀
 - ___Autodots___: Let dotfiles back themselves up.
 - a bash script that automate commit and push dotfiles to your bare Git repository, so you can be more productive on other important things. 
 - Author: crunchysoul
