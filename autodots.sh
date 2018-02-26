@@ -21,8 +21,7 @@ ZSH=$HOME/.zshrc
 # git configs
 GIT_CONFIG=$HOME/.gitconfig
 GIT_IGNORE=$HOME/.gitignore_global
-GIT_CONFIG_ISOBAR=$HOME/codes/projects-isobar/.gitconfig
-GIT=($GIT_CONFIG $GIT_IGNORE $GIT_CONFIG_ISOBAR)
+GIT=($GIT_CONFIG $GIT_IGNORE)
 
 # bash script
 SCRIPTS=$HOME/codes/projects-script/*
